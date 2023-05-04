@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+.footer_1 {
+  position: absolute;
+  bottom: 0%;
+  width: 100%;
+}
+.text_1 {
+  height: auto;
+  width: 100%;
+  background: url("https://cdn.discordapp.com/attachments/1095689408809795654/1096043474836541450/chelsear-01.png");
+  background-size: contain;
+}
+.top_foot {
+  display: flex;
+  background-color: #1c2e72;
+  justify-content: space-between;
+  border-radius: 20px 20px 0px 0px;
+}
+h1,
+h2 {
+  margin: 5px 15px;
+  color: rgb(255, 255, 255);
+  font-weight: 100;
+  line-height: 120%;
+  letter-spacing: 1px;
+}
+.one {
+  margin: 50px 15px;
+  width: 33vw;
+  text-align: left;
+  margin-left: 5vw;
+
+  border-right: 1px solid rgba(255, 255, 255, 0.575);
+}
+.three {
+  margin: 50px 15px;
+  text-align: left;
+  width: 33vw;
+  margin-left: 2vw;
+}
+.two {
+  margin: 50px 15px;
+  margin-left: 5vw;
+  text-align: left;
+  width: 33vw;
+  border-right: 1px solid rgba(255, 255, 255, 0.548);
+}
+.two h2 {
+  line-height: 60px;
+  position: relative;
+  top: 10%;
+}
+.entity {
+  width: 75%;
+}
+.logo img {
+  width: 9vw;
+  margin: 10px;
+}
+.logo-div {
+  display: flex;
+  margin-left: 2.5vw;
+  margin-top: 20px;
+}
+.onetext {
+  margin-top: 20px;
+  position: relative;
+  top: 5%;
+  line-height: 50px;
+}
+.bottom-foot {
+  height: 102px;
+  background-color: #050319;
+}
+.selection li {
+  color: white;
+  font-size: 1rem;
+  list-style: none;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+.inner-select {
+  height: 50px;
+  margin: 0px 15vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inner-select2 li {
+  color: white;
+  height: 50px;
+  margin: 0px 15vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.selection {
+  margin: 0px 50px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.582);
+}
